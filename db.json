@@ -1,0 +1,28 @@
+{
+ "posts": [
+  {
+   "id": 1,
+   "title": "Hello",
+   "userId": 1
+  },
+  {
+   "id": 2,
+   "title": "New title",
+   "userId": 3
+  }
+ ],
+ "users": [
+  {
+   "id": 1,
+   "name": "Alice brand new"
+  },
+  {
+   "id": 2,
+   "name": "Bob"
+  },
+  {
+   "id": 3,
+   "name": "Lamine Yamal"
+  }
+ ]
+}
